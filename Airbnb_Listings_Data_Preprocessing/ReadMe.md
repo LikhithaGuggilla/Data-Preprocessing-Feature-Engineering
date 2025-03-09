@@ -4,6 +4,8 @@
 This project focuses on **cleaning, transforming, and structuring Barcelona Airbnb listings data** to prepare it for further analysis and predictive modeling. The dataset initially contained **75 columns and 17,231 rows**, which were **filtered, optimized, and engineered** to retain only meaningful features.
 
 ---
+## **Tools Used**
+- JMP
 
 ## **Techniques Used**
 ### **1️⃣ Data Cleaning**
