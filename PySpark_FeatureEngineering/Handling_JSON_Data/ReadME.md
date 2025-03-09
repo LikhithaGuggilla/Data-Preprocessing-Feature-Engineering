@@ -1,1 +1,1 @@
-
+This exercise explores efficient handling of **JSON data in PySpark**, covering key operations such as **ingesting, parsing, transforming, and analyzing semi-structured data at scale**. It demonstrates reading both single-line and multi-line JSON formats, **implementing schema inference** and **custom schema definitions**, and extracting **insights from nested JSON structures**. The exercise also delves into **data transformations, filtering, and performance optimizations to ensure scalable and efficient processing**.
